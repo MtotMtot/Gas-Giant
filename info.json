@@ -1,10 +1,10 @@
 {
-  "name": "[planet-gas-giant]",
+  "name": "planet-gas-giant",
   "version": "0.0.0",
-  "title": "[Gas Giant]",
-  "author": "[MrGamingTime]",
-  "homepage": "[https://github.com/MtotMtot/Gas-Giant]",
-  "description": "[Explore the stormy gas giant]",
+  "title": "Gas Giant",
+  "author": "MrGamingTime",
+  "homepage": "https://github.com/MtotMtot/Gas-Giant",
+  "description": "Explore the stormy gas giant",
   "factorio_version": "2.0.55",
   "dependencies": [
     "base",
