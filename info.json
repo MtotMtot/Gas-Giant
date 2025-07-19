@@ -5,7 +5,7 @@
   "author": "MrGamingTime",
   "homepage": "https://github.com/MtotMtot/Gas-Giant",
   "description": "Explore the stormy gas giant",
-  "factorio_version": "2.0.55",
+  "factorio_version": "2.0",
   "dependencies": [
     "base",
     "space-age"
