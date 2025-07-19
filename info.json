@@ -7,8 +7,7 @@
   "description": "[Explore the stormy gas giant]",
   "factorio_version": "2.0.55",
   "dependencies": [
-    "base",
-    "space-age",
+    "base"
   ],
   "quality_required": false,
   "rail_bridges_required": false,
